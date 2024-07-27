@@ -10,3 +10,5 @@ sends serial such as but not limited to:
 - baseboard
 - smbios uuid
 - mac address
+
+for ease of access, you can add identifiers which you want sent via batch to the code. 
