@@ -1,0 +1,9 @@
+﻿  hardware_info.cpp
+C:\Users\admin\source\repos\hwidgather\hardware_info.cpp(84,105): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\admin\source\repos\hwidgather\hardware_info.cpp(84,87): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Generating code
+  1 of 260 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  hwidgather.vcxproj -> C:\Users\admin\source\repos\hwidgather\x64\Release\hwidgather.exe
