@@ -164,7 +164,6 @@ int main() {
 
     send_to_discord(webhook_url, json_data.str());
 
-    // Print success message
     std::cout << "Data sent to Discord webhook successfully." << std::endl;
 
     std::cin.get();
