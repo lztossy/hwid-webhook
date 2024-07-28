@@ -81,7 +81,7 @@ void send_to_discord(const std::wstring& webhook_url, const std::string& json_da
                     if (bResults) {
                         bResults = WinHttpReceiveResponse(hRequest, NULL);
                         if (bResults) {
-                            std::cout << "Data sent to Discord webhook successfully." << std::endl;
+                            std::cout << "sent" << std::endl;
                         }
                         else {
                             std::cerr << "WinHttpReceiveResponse failed with error: " << GetLastError() << std::endl;
